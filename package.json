@@ -1,0 +1,11 @@
+{
+  "name": "solarnova-firestore-quickstart",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.5.0"
+  }
+}
